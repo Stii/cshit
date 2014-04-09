@@ -56,7 +56,7 @@ int main(int argc, char *argv[])
 		}
 	} else {
 		printf("\n You're doing it wrong... This command works as follow:\n\n");
-		printf("\t datetool date|timestamp\n\n");
+		printf("\t ts2d date|timestamp\n\n");
 	}
 	return 0;
 }
