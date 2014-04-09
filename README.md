@@ -23,7 +23,7 @@ To use it, on a *nix filesystem:
 ### Collatz Conjecture (Hailstone sequence)
 A program that takes 2 integers as input and print these out together with the longest cycle of an int between the 2 params.
 
-[https://github.com/Stii/cshit/tree/master/hailstone](Read the readme.)
+[Read the readme.](https://github.com/Stii/cshit/tree/master/hailstone)
 
 To use it, on a *nix filesystem:
 `$ cd hailstone && make hail`
