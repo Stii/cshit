@@ -20,6 +20,9 @@ For each pair of input integers i and j, output i, j in the same order in which 
 ###Sample
 
 __input__ 1 10 __output__ 1 10 20
+
 __input__ 100 200 __output__ 100 200 125
+
 __input__ 201 210 __output__ 201 210 89
+
 __input__ 900 1000 __output__ 900 1000 174
